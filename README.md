@@ -29,7 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Captura Estructura del Proyecto
 
-![UD33 - Angular2](https://user-images.githubusercontent.com/47026018/171403102-35c8e18d-d3bc-48f5-8f9d-ae83efa246a8.PNG)
+![UD33 - Angular](https://user-images.githubusercontent.com/47026018/171403249-9f3691dc-3720-4b16-83b4-132616579091.PNG)
+
 
 ## Captura de el resultado al ejecutar el proyecto de prueba
 
